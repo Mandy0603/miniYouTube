@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img src="https://github.com/Mandy0603/miniYouTube/blob/master/img/miniYouTube.gif">
+
 ## Available Scripts
 
 In the project directory, you can run:
